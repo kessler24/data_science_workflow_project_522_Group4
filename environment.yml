@@ -1,0 +1,8 @@
+name: climate-env
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.11.14
+- pandas=2.2.2
+- pip=25.3
