@@ -8,3 +8,5 @@ dependencies:
 - pip=25.3
 - ipykernel
 - altair-all=5.4.*
+- pip:
+  - altair_ally>=0.1.1
