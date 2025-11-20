@@ -7,6 +7,7 @@ dependencies:
 - pandas=2.2.2
 - pip=25.3
 - ipykernel
+- nb_conda_kernels
 - altair-all=5.4.*
 - pip:
   - altair_ally>=0.1.1
