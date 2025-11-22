@@ -39,7 +39,7 @@ def process_dependency(dep, installed_packages):
             return dep  # keep as original if not installed
 
 
-def update_environment_yml(env_name, yml_file="./environment.yml"):
+def update_environment_yml(env_name, yml_file="../environment.yml"):
     """
     Updates the `environment.yml` file with the correct package versions
     from the conda environment (env_name) using "conda list".
