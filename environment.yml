@@ -6,3 +6,4 @@ dependencies:
 - python=3.11.14
 - pandas=2.2.2
 - pip=25.3
+- altair-all=5.4.*
